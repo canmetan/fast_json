@@ -7,6 +7,8 @@
 class Trivial{
     public:
         int return_num();
+    private:
+        const int asdf=10;
 };
 
 #endif
